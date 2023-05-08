@@ -1,0 +1,17 @@
+.photo-box {
+    margin: 5%;
+    max-width: 400px;
+    max-height: 4000px;
+    border-radius: 30px;
+    background-color: hsla(0, 0%, 0%, 0.217);
+    padding: 10px;
+    font-size: large;
+  }
+  
+  .photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Times New Roman', Times, serif;
+  }
